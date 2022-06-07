@@ -7,3 +7,10 @@ CSS Animation &amp; Hover Effects. Pet project
 
 ![ПРЕВЬЮ](https://github.com/plushazavr/IMG/blob/5d3cafda676820ffaa547a744a055983cd70e5fe/isometric.gif)
 
+## В проекте использовались: 
+* БЕМ методология
+* @keyframes
+* Анимация полностью на CSS
+
+### Склонировать проект на ПК:
+    gh repo clone plushazavr/Isometric-Design
