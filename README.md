@@ -1,5 +1,5 @@
 # Isometric-Design
-CSS Animation &amp; Hover Effects. Pet project
+CSS Animation &amp; Hover Effects.
 
 Выполнено по уроку [Online Tutorials](https://youtu.be/j1Wr-jiodpo)
 
